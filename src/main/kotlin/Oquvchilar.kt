@@ -1,0 +1,1 @@
+data class Oquvchilar (val name:String,val id:Int)
